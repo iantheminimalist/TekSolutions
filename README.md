@@ -27,7 +27,7 @@ The website is built using HTML, CSS, and JavaScript, ensuring a responsive and 
 
 ## Getting Started
 
-To view the website locally, clone this repository and open the `index.html` file in your preferred web browser.
+To view the website locally, clone this repository and open the `index.html` file in your preferred web browser or you can visit the link to my page that is host of github pages right here [Visit TekSolutions Website](https://iantheminimalist.github.io/TekSolutions/).
 
 ## Contributing
 
